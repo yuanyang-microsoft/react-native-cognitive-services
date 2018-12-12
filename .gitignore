@@ -1,0 +1,10 @@
+# OS and IDE
+.expo/
+.vscode/
+.DS_Store
+
+# NODE and NPM
+node_modules/
+npm-debug.*
+package-lock.json
+
